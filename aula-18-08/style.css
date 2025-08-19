@@ -1,0 +1,15 @@
+h1 {
+    color: navy;
+}   
+/* Seletor de ID*/
+#xuxu{
+background-color: gray;
+}
+*/ seletor de classes*/
+.estiloso{
+border-style: solid;
+}
+/* Afeta apenas os p da classe centralizada*/
+p.centraliza{
+    text-algin: center;
+}     
